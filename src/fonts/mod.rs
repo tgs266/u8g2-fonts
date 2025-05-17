@@ -1,4 +1,7 @@
 crate::font::font_definitions!(
+    // custom
+    u8g2_font_tb8,
+    // default
     u8g2_font_u8glib_4_tf,
     u8g2_font_u8glib_4_tr,
     u8g2_font_u8glib_4_hf,
